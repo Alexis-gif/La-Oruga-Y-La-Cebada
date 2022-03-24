@@ -17,7 +17,7 @@ const NavBar = () => {
   };
 
   return (
-    <AppBar position="static">
+    <AppBar position="static" sx={{ borderRadius: 1 }}>
       <Container maxWidth="xl">
         <Toolbar disableGutters>
           <LogoOpen />

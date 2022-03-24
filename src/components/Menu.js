@@ -9,7 +9,7 @@ import {
 } from "@mui/material";
 import MenuIcon from "@mui/icons-material/Menu";
 
-const pages = ["Products", "Pricing", "Blog"];
+const pages = ["Inicio", "Alimentos", "Bebidas", "Nosotros", "Contacto"];
 
 const MenuOpen = ({ handleOpenNavMenu, anchorElNav, handleCloseNavMenu }) => {
   return (
